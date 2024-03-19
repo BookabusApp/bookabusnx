@@ -1,0 +1,25 @@
+{
+  "ar": [
+    "feedbacksSummaryEmptyStateHeading",
+    "dateOfBith",
+    "driverShouldAriveInNotice",
+    "slideToConfirmArrival",
+    "slideToConfirmPickup",
+    "slideToConfirmDropoff",
+    "noticePickingUpRiderIn",
+    "noticeRiderNotified"
+  ],
+
+  "zh": [
+    "feedbacksSummaryEmptyStateHeading",
+    "noFavoriteDriversDescription",
+    "payInCash",
+    "payInCashDescription",
+    "addToFavoriteDrivers",
+    "slideToConfirmArrival",
+    "slideToConfirmPickup",
+    "slideToConfirmDropoff",
+    "noticePickingUpRiderIn",
+    "noticeRiderNotified"
+  ]
+}
